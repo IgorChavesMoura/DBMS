@@ -1,0 +1,9 @@
+2$0,Igor$16,igor
+2$1,igor$9,zezim
+2$2,fulano$10,random
+2$3,joao$11,random
+2$4,vitoria$12,ze
+2$5,random$13,ze
+1$6,igor
+1$7,ze
+1$8,manuel
